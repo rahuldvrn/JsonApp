@@ -1,8 +1,8 @@
 {
 "apkUrl": "https://raw.githubusercontent.com/rahuldvrn/JsonApp/main/app/baseXtream.apk",
   "storeUrl":"https://play.google.com/store/apps/details?id=com.devcoder.iptvxtreamplayer",
-"versionName": "4.6.2",
-"versionCode": 126,
+"versionName": "4.6.3",
+"versionCode": 127,
 "updateType":0,
 "allowCheckAppVersion" : true,
 "allowCheckUpdate":false,
