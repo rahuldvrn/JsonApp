@@ -1,0 +1,15 @@
+{
+  "apkUrl": "https://raw.githubusercontent.com/rahuldvrn/JsonApp/main/app/dev.apk",
+  "storeUrl": "https://play.google.com/store/apps/details?id=com.devcoder.devoiptvplayer",
+  "versionName": "3.6.1",
+  "versionCode": 99,
+  "updateType": 0,
+  "allowCheckAppVersion": true,
+  "allowCheckUpdate": false,
+  "allowAppVersion": [
+    99,
+    100,
+    101,
+    102
+  ]
+}
