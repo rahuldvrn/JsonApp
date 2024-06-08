@@ -1,0 +1,19 @@
+{
+  "apkUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
+  "storeUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
+  "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
+  "versionName": "1.1",
+  "versionCode": 2,
+  "updateType": 0,
+  "allowCheckAppVersion": true,
+  "allowCheckUpdate": false,
+  "allowAppVersion": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ]
+}
