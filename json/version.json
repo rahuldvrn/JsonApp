@@ -2,6 +2,7 @@
   "apkUrl": "https://raw.githubusercontent.com/rahuldvrn/JsonApp/main/app/xtream.apk",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.sidhbalitech.ninexplayer",
   "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
+  "pack":"com.devcoder.iptvxtreamplayer",
   "versionName": "4.6.5",
   "versionCode": 129,
   "updateType": 0,
@@ -11,10 +12,12 @@
     129,
     130
   ],
-  "downloadType": "external",
+  "downloadType": "External",
+  "name": "Xtream Player",
   "downloadApk": "https://raw.githubusercontent.com/rahuldvrn/JsonApp/main/app/xtream.apk",
   "pro": {
-    "isAllow": true
+    "isAllow": true,
+    "otherAllow": true
   },
   "stopApp": false,
   "contact": {
