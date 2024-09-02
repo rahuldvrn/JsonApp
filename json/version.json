@@ -2,13 +2,25 @@
   "apkUrl": "https://raw.githubusercontent.com/rahuldvrn/JsonApp/main/app/xtream.apk",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.sidhbalitech.ninexplayer",
   "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
-  "versionName": "4.6.4",
-  "versionCode": 128,
+  "versionName": "4.6.5",
+  "versionCode": 129,
   "updateType": 0,
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "allowAppVersion": [
     129,
     130
-  ]
+  ],
+  "downloadType": "external",
+  "downloadApk": "https://raw.githubusercontent.com/rahuldvrn/JsonApp/main/app/xtream.apk",
+  "pro": {
+    "isAllow": true
+  },
+  "stopApp": false,
+  "contact": {
+    "email": "rahuldvrn8@gmail.com",
+    "telegram": "https://t.me/xtreamplayer_devcoder",
+    "telegramGroup": "https://t.me/+Z4Fm3Z7wn1I1NjI9",
+    "youtube": "https://www.youtube.com/channel/UCm0YTpSLECS9cqaOEvyyKlA"
+  }
 }
