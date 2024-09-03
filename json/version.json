@@ -2,7 +2,7 @@
   "apkUrl": "https://raw.githubusercontent.com/rahuldvrn/JsonApp/main/app/xtream.apk",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.sidhbalitech.ninexplayer",
   "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
-  "pack":"com.devcoder.iptvxtreamplayer",
+  "pack": "com.devcoder.iptvxtreamplayer",
   "versionName": "4.6.5",
   "versionCode": 129,
   "updateType": 0,
@@ -29,6 +29,15 @@
     "phone": "",
     "insta": "",
     "fb": "",
-    "website":"https://sidhbalitech-9xplayer.web.app/"
+    "website": ""
+  },
+  "app": {
+    "pkg": "Y29tLmRldmNvZGVyLmlwdHZ4dHJlYW1wbGF5ZXI=",
+    "p1": "Y29t",
+    "p2": "ZGV2Y29kZXI=",
+    "p3": "aXB0dnh0cmVhbXBsYXllcg==",
+    "n1": "WHRyZWFt",
+    "n2": "UGxheWVy",
+    "tmApiKey": "83f571578682b9d40e9a9da2e959817b"
   }
 }
