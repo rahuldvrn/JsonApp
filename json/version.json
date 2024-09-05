@@ -8,6 +8,7 @@
   "updateType": 0,
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
+  "isAllowOtherStoreInstall" : true,
   "allowAppVersion": [
     129,
     130
