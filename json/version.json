@@ -18,7 +18,7 @@
   "downloadApk": "https://drive.google.com/uc?export=download&id=1ASGLTw1btMKXqlXbRxEbMDbMIqmR1c8j",
   "pro": {
     "isAllow": true,
-    "otherAllow": true
+    "otherAllow": false
   },
   "stopApp": false,
   "contact": {
