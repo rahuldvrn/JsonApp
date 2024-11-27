@@ -2,20 +2,53 @@
   "apkUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
   "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
-  "versionName": "1.3",
-  "versionCode": 4,
+  "versionName": "1.5",
+  "versionCode": 5,
   "updateType": 0,
   "adId": "ca-app-pub-6989746781194349/6194038218",
-  "isAllowOtherStoreInstall": "false"
+  "isAllowOtherStoreInstall": "false",
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "allowAppVersion": [
-    2,
-    3,
-    4,
     5,
     6,
     7,
     8
-  ]
+  ],
+  "downloadType": "PlayStore",
+  "downloadApk": "",
+  "pro": {
+    "isAllow": true,
+    "otherAllow": true
+  },
+  "stopApp": false,
+  "contact": {
+    "email": "xpiptv.player@gmail.com",
+    "telegram": "https://t.me/xpiptvplayer",
+    "telegramGroup": "https://t.me/+XwP1h6-KQEgyYTI1",
+    "youtube": "https://www.youtube.com/channel/UCm0YTpSLECS9cqaOEvyyKlA",
+    "skype": "https://join.skype.com/invite/Vpftk3rQnbBH",
+    "phone": "",
+    "insta": "",
+    "fb": "",
+    "website": "https://xpiptv.web.app/"
+  },
+  "appE": {
+    "pkg": "Y29tLnVsdHJhc3RyZWFtLnVsdHJheGNwbGF5ZXI=",
+    "p1": "Y29t",
+    "p2": "dWx0cmFzdHJlYW0=",
+    "p3": "dWx0cmF4Y3BsYXllcg==",
+    "n1": "VWx0cmEgWEM=",
+    "n2": "UGxheWVy"
+  },
+  "appInfo": {
+    "name": "Ultra XC Player",
+    "pkgn": "com.ultrastream.ultraxcplayer",
+    "tmKey": "1958e649d7ff65132ec16690590ec0ab"
+  },
+  "ads": {
+    "adBannerId": "ca-app-pub-6989746781194349/6194038218",
+    "isAdAllowOtherStoreApp": false,
+    "isTvAd": false
+  }
 }
