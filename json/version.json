@@ -10,7 +10,6 @@
   "allowCheckUpdate": false,
   "isAllowOtherStoreInstall" : true,
   "allowAppVersion": [
-    127,128,
     129,
     130
   ],
