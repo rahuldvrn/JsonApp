@@ -30,16 +30,16 @@
     "fb": "",
     "website": "https://xpiptv.web.app/"
   },
-  "appE": {
+  "appEUXP": {
     "pkg": "Y29tLnVsdHJhc3RyZWFtLnVsdHJheGNwbGF5ZXI=",
     "p1": "Y29t",
     "p2": "dWx0cmFzdHJlYW0=",
     "p3": "dWx0cmF4Y3BsYXllcg==",
-    "n1": "VWx0cmEgWEM=",
-    "n2": "UGxheWVy"
+    "n1": "VVg=",
+    "n2": "UA=="
   },
-  "appInfo": {
-    "name": "Ultra XC Player",
+  "appInfos": {
+    "appN": "UXP",
     "pkgn": "com.ultrastream.ultraxcplayer",
     "tmKey": "1958e649d7ff65132ec16690590ec0ab"
   },
