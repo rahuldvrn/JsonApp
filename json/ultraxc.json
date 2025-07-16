@@ -53,6 +53,6 @@
         "p3": "etrontv,starshare",
         "disableEmulator": true,
         "disableModelName" : "emulator,simulator",
-        "demoP" : "demo"
+        "demoP" : "demo,ibo"
     }
 }
