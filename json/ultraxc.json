@@ -10,7 +10,7 @@
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "allowAppVersion": [
-    13,14,15,16,18,19,20,21,22
+    13,14,15,16,17,18,19,20,21,22
   ],
   "downloadType": "PlayStore",
   "downloadApk": "",
