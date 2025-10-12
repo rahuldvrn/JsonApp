@@ -2,15 +2,15 @@
   "apkUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
   "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
-  "versionName": "2.5",
-  "versionCode": 16,
+  "versionName": "2.6",
+  "versionCode": 17,
   "updateType": 0,
   "adId": "ca-app-pub-6989746781194349/6194038218",
   "isAllowOtherStoreInstall": "false",
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "allowAppVersion": [
-    13,14,15,16,17,18,19,20,21,22
+    15,16,17,18,19,20,21,22
   ],
   "downloadType": "PlayStore",
   "downloadApk": "",
@@ -28,7 +28,7 @@
     "phone": "",
     "insta": "",
     "fb": "",
-    "website": "https://xpiptv.web.app/"
+    "website": "https://ultraxpplayer.vercel.app"
   },
   "appEUXP": {
     "pkg": "Y29tLnVsdHJhc3RyZWFtLnVsdHJheGNwbGF5ZXI=",
@@ -45,6 +45,8 @@
   },
   "ads": {
     "adBannerId": "ca-app-pub-6989746781194349/6194038218",
+    "fbBannerId": "3774707012759423_4278410272389092",
+    "isFbAd": true,
     "isAdAllowOtherStoreApp": false,
     "isTvAd": false,
     "isLimitedAds": true
