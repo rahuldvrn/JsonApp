@@ -20,15 +20,15 @@
   },
   "stopApp": false,
   "contact": {
-    "email": "xpiptv.pro@gmail.com",
-    "telegram": "https://t.me/xtreamplayer_devcoder",
-    "telegramGroup": "https://t.me/+Z4Fm3Z7wn1I1NjI9",
-    "youtube": "https://www.youtube.com/channel/UCm0YTpSLECS9cqaOEvyyKlA",
-    "skype": "https://join.skype.com/invite/Vpftk3rQnbBH",
+    "email": "",
+    "telegram": "",
+    "telegramGroup": "",
+    "youtube": "",
+    "skype": "",
     "phone": "",
     "insta": "",
     "fb": "",
-    "website": "https://ultraxpplayer.vercel.app"
+    "website": ""
   },
   "appEUXP": {
     "pkg": "Y29tLnVsdHJhc3RyZWFtLnVsdHJheGNwbGF5ZXI=",
@@ -52,7 +52,7 @@
     "isLimitedAds": true
   },
    "block": {
-        "p3": "etrontv,starshare",
+        "p3": "etrontv,starshare,sky,xtv,opplex,xciptv,smart4k,hexa4k",
         "disableEmulator": true,
         "disableModelName" : "emulator,simulator",
         "demoP" : "demo,ibo"
