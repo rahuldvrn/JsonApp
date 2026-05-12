@@ -48,8 +48,8 @@
     "fbBannerId": "3774707012759423_4278410272389092",
     "isFbAd": true,
     "isAdAllowOtherStoreApp": false,
-    "isTvAd": false,
-    "isLimitedAds": true
+    "isTvAd": true,
+    "isLimitedAds": false
   },
    "block": {
         "p3": "etrontv,starshare,sky,xtv,opplex,xciptv,smart4k,hexa4k",
