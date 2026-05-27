@@ -5,12 +5,12 @@
   "versionName": "3.1",
   "versionCode": 22,
   "updateType": 0,
-  "adId": "ca-app-pub-6989746781194349/6194038218",
+  "adId": "ca-app-pub-6989746781194349/5350711828",
   "isAllowOtherStoreInstall": "false",
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "allowAppVersion": [
-   20,21,22,23,24,25,26,27,28,29,30
+   22,23,24,25,26,27,28,29,30
   ],
   "downloadType": "PlayStore",
   "downloadApk": "",
@@ -44,7 +44,7 @@
     "tmKey": "1958e649d7ff65132ec16690590ec0ab"
   },
   "ads": {
-    "adBannerId": "ca-app-pub-6989746781194349/6194038218",
+    "adBannerId": "ca-app-pub-6989746781194349/5350711828",
     "fbBannerId": "3774707012759423_4278410272389092",
     "isFbAd": true,
     "isAdAllowOtherStoreApp": false,
