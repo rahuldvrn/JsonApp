@@ -10,7 +10,7 @@
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "allowAppVersion": [
-   22,23,24,25,26,27,28,29,30
+  23,24,25,26,27,28,29,30
   ],
   "downloadType": "PlayStore",
   "downloadApk": "",
@@ -46,7 +46,7 @@
   "ads": {
     "adBannerId": "ca-app-pub-6989746781194349/5350711828",
     "fbBannerId": "3774707012759423_4278410272389092",
-    "isFbAd": false,
+    "isFbAd": true,
     "isAdAllowOtherStoreApp": false,
     "isTvAd": true,
     "isLimitedAds": false
