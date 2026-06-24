@@ -5,7 +5,7 @@
   "versionName": "3.2",
   "versionCode": 23,
   "updateType": 0,
-  "adId": "ca-app-pub-6989746781194349/5350711828",
+  "adId": "ca-app-pub-6989746781194349/8183335240",
   "isAllowOtherStoreInstall": "false",
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
@@ -44,9 +44,9 @@
     "tmKey": "1958e649d7ff65132ec16690590ec0ab"
   },
   "ads": {
-    "adBannerId": "ca-app-pub-6989746781194349/5350711828",
+    "adBannerId": "ca-app-pub-6989746781194349/8183335240",
     "fbBannerId": "3774707012759423_4278410272389092",
-    "isFbAd": true,
+    "isFbAd": false,
     "isAdAllowOtherStoreApp": false,
     "isTvAd": true,
     "isLimitedAds": false
