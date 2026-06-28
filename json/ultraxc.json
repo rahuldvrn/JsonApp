@@ -47,6 +47,7 @@
     "adBannerId": "ca-app-pub-6989746781194349/8183335240",
     "fbBannerId": "3774707012759423_4278410272389092",
     "isFbAd": true,
+    "isUnityAd": true,
     "isAdAllowOtherStoreApp": false,
     "isTvAd": true,
     "isLimitedAds": false
