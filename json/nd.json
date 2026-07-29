@@ -15,7 +15,7 @@
             "isLimitedAds": false
         },
         "validate": {
-            "isAllowOtherStoreInstall": "false",
+            "isAllowOtherStoreInstall": false,
             "downloadType": "PlayStore",
             "downloadApk": ""
         }
