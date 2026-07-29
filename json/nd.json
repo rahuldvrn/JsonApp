@@ -1,0 +1,58 @@
+{
+    "android": {
+        "version": {
+            "versionName": "1.0",
+            "versionCode": 1,
+            "allowAppVersion": [1,2,3,4]
+        },
+        "updateType": "0",
+        "apkUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
+        "ads": {
+            "bannerMobId": "ca-app-pub-6989746781194349/8183335240",
+            "nativeModId": "",
+            "isTvAd": true,
+            "isLimitedAds": false
+        },
+        "validate": {
+            "isAllowOtherStoreInstall": "false",
+            "downloadType": "PlayStore",
+            "downloadApk": ""
+        }
+    },
+    "apple": {
+        "version": {
+            "versionName": "1.0",
+            "versionCode": 1,
+            "ads": {
+                "bannerMobId": "",
+                "nativeModId": "",
+                "isTvAd": true,
+                "isLimitedAds": false
+            }
+        }
+    },
+    "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
+    "contact": {
+        "email": "",
+        "telegram": "",
+        "telegramGroup": "",
+        "youtube": "",
+        "skype": "",
+        "phone": "",
+        "insta": "",
+        "fb": "",
+        "website": "https://ultraxpplayer.vercel.app/"
+    },
+    "appInfo": {
+        "appN": "ND Player",
+        "pkgn": "com.xp.ndplayer",
+        "tmKey": "1958e649d7ff65132ec16690590ec0ab"
+    },
+    "block": {
+        "p3": "etrontv,starshare,sky,xtv,opplex,xciptv,smart4k,hexa4k",
+        "disableEmulator": true,
+        "disableModelName": "emulator,simulator",
+        "demoP": "demo,ibo"
+    }
+}
