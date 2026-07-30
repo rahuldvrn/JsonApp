@@ -29,7 +29,8 @@
                 "nativeModId": "",
                 "isTvAd": true,
                 "isLimitedAds": false
-            }
+            },
+            "allowAppVersion": [1,2,3,4]
         }
     },
     "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
