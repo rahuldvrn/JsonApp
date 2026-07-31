@@ -6,8 +6,8 @@
             "allowAppVersion": [1,2,3,4]
         },
         "updateType": "0",
-        "apkUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
-        "storeUrl": "https://play.google.com/store/apps/details?id=com.ultrastream.ultraxcplayer",
+        "apkUrl": "https://play.google.com/store/apps/details?id=",
+        "storeUrl": "https://play.google.com/store/apps/details?id=",
         "ads": {
             "bannerMobId": "ca-app-pub-6989746781194349/8183335240",
             "nativeModId": "",
@@ -30,7 +30,8 @@
                 "isTvAd": true,
                 "isLimitedAds": false
             },
-            "allowAppVersion": [1,2,3,4]
+            "allowAppVersion": [1,2,3,4,5],
+            "storeUrl": "https://apps.apple.com/us/app/xp-iptv/id6744047936"
         }
     },
     "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
