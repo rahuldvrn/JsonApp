@@ -9,8 +9,9 @@
         "apkUrl": "https://play.google.com/store/apps/details?id=",
         "storeUrl": "https://play.google.com/store/apps/details?id=",
         "ads": {
-            "bannerMobId": "ca-app-pub-6989746781194349/8183335240",
-            "nativeModId": "",
+            "bannerMobId": "ca-app-pub-6989746781194349/8831824043",
+            "nativeModId": "ca-app-pub-6989746781194349/3952580619",
+             "mobIntersAdId": "ca-app-pub-6989746781194349/8011245120",
             "isTvAd": true,
             "isLimitedAds": false
         },
@@ -25,13 +26,14 @@
             "versionName": "1.0",
             "versionCode": 1,
             "ads": {
-                "bannerMobId": "",
-                "nativeModId": "",
+                "bannerMobId": "ca-app-pub-6989746781194349/4405493872",
+                "nativeModId": "ca-app-pub-6989746781194349/5712650773",
+                "mobIntersAdId": "ca-app-pub-6989746781194349/2387383358",
                 "isTvAd": true,
                 "isLimitedAds": false
             },
             "allowAppVersion": [1,2,3,4,5],
-            "storeUrl": "https://apps.apple.com/us/app/xp-iptv/id6744047936"
+            "storeUrl": "https://apps.apple.com/us/app/"
         }
     },
     "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
